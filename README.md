@@ -211,5 +211,3 @@ Backend виводить детальні логи:
 📦 Повертаємо курси з кешу
 
 
-**Автор: [Maksym Chukhrai](https://www.mchukhrai.com/)**
-
