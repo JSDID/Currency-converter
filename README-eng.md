@@ -213,5 +213,3 @@ The backend outputs detailed logs:
 📦 Returning rates from cache
 
 
-**Author: [Maksym Chukhrai](https://www.mchukhrai.com/)**
-
